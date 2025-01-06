@@ -5,13 +5,13 @@
 
 - programming since 4th grade
 
-- Volunteer at Schoolhouse.world and Regional Manager at CodeDay
+- Volunteer at <a href="https://schoolhouse.world/u/hafsah">Schoolhouse.world</a> and Regional Manager at <a href="https://codeday.org">CodeDay</a>
 
-- 🌱 I’m currently learning **data structures and algorithms!**
+- I’m currently learning **data structures and algorithms**
   
-- 😄 Pronouns: **she/her**
+- Pronouns: **she/her**
 
-- 📫 How to reach me **hafsahmuzaffer@gmail.com**
+- How to reach me **hafsahmuzaffer@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
